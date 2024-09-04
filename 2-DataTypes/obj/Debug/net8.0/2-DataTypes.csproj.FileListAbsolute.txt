@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\bin\Debug\net8.0\2-DataTypes.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\bin\Debug\net8.0\2-DataTypes.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\bin\Debug\net8.0\2-DataTypes.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\bin\Debug\net8.0\2-DataTypes.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\bin\Debug\net8.0\2-DataTypes.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\2-DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\2-DataTypes.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\2-DataTypes.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\2-DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\2-DataTypes.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\refint\2-DataTypes.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\2-DataTypes.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\2-DataTypes.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\2-DataTypes\obj\Debug\net8.0\ref\2-DataTypes.dll

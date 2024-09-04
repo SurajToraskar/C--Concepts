@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\bin\Debug\net7.0\29-Zip.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\bin\Debug\net7.0\29-Zip.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\bin\Debug\net7.0\29-Zip.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\bin\Debug\net7.0\29-Zip.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\bin\Debug\net7.0\29-Zip.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\29-Zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\29-Zip.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\29-Zip.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\29-Zip.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\29-Zip.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\refint\29-Zip.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\29-Zip.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\29-Zip.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\29-Zip\obj\Debug\net7.0\ref\29-Zip.dll

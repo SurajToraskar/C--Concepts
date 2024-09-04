@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\bin\Debug\net7.0\11-Functions.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\bin\Debug\net7.0\11-Functions.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\bin\Debug\net7.0\11-Functions.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\bin\Debug\net7.0\11-Functions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\bin\Debug\net7.0\11-Functions.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\11-Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\11-Functions.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\11-Functions.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\11-Functions.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\11-Functions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\refint\11-Functions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\11-Functions.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\11-Functions.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\11-Functions\obj\Debug\net7.0\ref\11-Functions.dll

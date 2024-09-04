@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\bin\Debug\net8.0\6-Arrays.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\bin\Debug\net8.0\6-Arrays.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\bin\Debug\net8.0\6-Arrays.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\bin\Debug\net8.0\6-Arrays.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\bin\Debug\net8.0\6-Arrays.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\6-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\6-Arrays.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\6-Arrays.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\6-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\6-Arrays.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\refint\6-Arrays.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\6-Arrays.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\6-Arrays.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\6-Arrays\obj\Debug\net8.0\ref\6-Arrays.dll

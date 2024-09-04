@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\bin\Debug\net7.0\27-Lambda.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\bin\Debug\net7.0\27-Lambda.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\bin\Debug\net7.0\27-Lambda.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\bin\Debug\net7.0\27-Lambda.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\bin\Debug\net7.0\27-Lambda.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\27-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\27-Lambda.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\27-Lambda.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\27-Lambda.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\27-Lambda.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\refint\27-Lambda.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\27-Lambda.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\27-Lambda.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\27-Lambda\obj\Debug\net7.0\ref\27-Lambda.dll

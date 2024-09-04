@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\bin\Debug\net7.0\26-Delegates.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\bin\Debug\net7.0\26-Delegates.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\bin\Debug\net7.0\26-Delegates.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\bin\Debug\net7.0\26-Delegates.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\bin\Debug\net7.0\26-Delegates.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\26-Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\26-Delegates.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\26-Delegates.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\26-Delegates.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\26-Delegates.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\refint\26-Delegates.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\26-Delegates.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\26-Delegates.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\26-Delegates\obj\Debug\net7.0\ref\26-Delegates.dll

@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\bin\Debug\net7.0\10-StringBuilder.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\bin\Debug\net7.0\10-StringBuilder.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\bin\Debug\net7.0\10-StringBuilder.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\bin\Debug\net7.0\10-StringBuilder.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\bin\Debug\net7.0\10-StringBuilder.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\10-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\10-StringBuilder.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\10-StringBuilder.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\10-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\10-StringBuilder.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\refint\10-StringBuilder.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\10-StringBuilder.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\10-StringBuilder.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\10-StringBuilder\obj\Debug\net7.0\ref\10-StringBuilder.dll

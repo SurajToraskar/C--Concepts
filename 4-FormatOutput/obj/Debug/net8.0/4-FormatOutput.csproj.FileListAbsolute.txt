@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\bin\Debug\net8.0\4-FormatOutput.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\bin\Debug\net8.0\4-FormatOutput.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\bin\Debug\net8.0\4-FormatOutput.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\bin\Debug\net8.0\4-FormatOutput.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\bin\Debug\net8.0\4-FormatOutput.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\4-FormatOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\4-FormatOutput.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\4-FormatOutput.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\4-FormatOutput.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\4-FormatOutput.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\refint\4-FormatOutput.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\4-FormatOutput.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\4-FormatOutput.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\4-FormatOutput\obj\Debug\net8.0\ref\4-FormatOutput.dll

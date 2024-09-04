@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\bin\Debug\net7.0\32-Threads.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\bin\Debug\net7.0\32-Threads.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\bin\Debug\net7.0\32-Threads.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\bin\Debug\net7.0\32-Threads.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\bin\Debug\net7.0\32-Threads.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\32-Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\32-Threads.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\32-Threads.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\32-Threads.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\32-Threads.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\refint\32-Threads.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\32-Threads.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\32-Threads.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\32-Threads\obj\Debug\net7.0\ref\32-Threads.dll

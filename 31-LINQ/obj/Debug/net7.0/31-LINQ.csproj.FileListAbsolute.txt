@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\bin\Debug\net7.0\31-LINQ.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\bin\Debug\net7.0\31-LINQ.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\bin\Debug\net7.0\31-LINQ.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\bin\Debug\net7.0\31-LINQ.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\bin\Debug\net7.0\31-LINQ.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\31-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\31-LINQ.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\31-LINQ.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\31-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\31-LINQ.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\refint\31-LINQ.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\31-LINQ.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\31-LINQ.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\31-LINQ\obj\Debug\net7.0\ref\31-LINQ.dll

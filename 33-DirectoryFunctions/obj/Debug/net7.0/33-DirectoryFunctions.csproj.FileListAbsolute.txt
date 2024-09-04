@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\bin\Debug\net7.0\33-DirectoryFunctions.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\bin\Debug\net7.0\33-DirectoryFunctions.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\bin\Debug\net7.0\33-DirectoryFunctions.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\bin\Debug\net7.0\33-DirectoryFunctions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\bin\Debug\net7.0\33-DirectoryFunctions.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\33-DirectoryFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\33-DirectoryFunctions.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\33-DirectoryFunctions.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\33-DirectoryFunctions.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\33-DirectoryFunctions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\refint\33-DirectoryFunctions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\33-DirectoryFunctions.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\33-DirectoryFunctions.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\33-DirectoryFunctions\obj\Debug\net7.0\ref\33-DirectoryFunctions.dll

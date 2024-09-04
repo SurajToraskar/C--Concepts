@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\bin\Debug\net7.0\16-ClassAndObject.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\bin\Debug\net7.0\16-ClassAndObject.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\bin\Debug\net7.0\16-ClassAndObject.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\bin\Debug\net7.0\16-ClassAndObject.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\bin\Debug\net7.0\16-ClassAndObject.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\16-ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\16-ClassAndObject.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\16-ClassAndObject.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\16-ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\16-ClassAndObject.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\refint\16-ClassAndObject.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\16-ClassAndObject.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\16-ClassAndObject.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\15-ClassAndObject\obj\Debug\net7.0\ref\16-ClassAndObject.dll

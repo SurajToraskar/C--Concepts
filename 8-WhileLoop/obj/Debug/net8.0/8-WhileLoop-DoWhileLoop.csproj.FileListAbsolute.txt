@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\bin\Debug\net8.0\8-WhileLoop-DoWhileLoop.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\bin\Debug\net8.0\8-WhileLoop-DoWhileLoop.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\bin\Debug\net8.0\8-WhileLoop-DoWhileLoop.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\bin\Debug\net8.0\8-WhileLoop-DoWhileLoop.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\bin\Debug\net8.0\8-WhileLoop-DoWhileLoop.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\8-WhileLoop-DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\8-WhileLoop-DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\8-WhileLoop-DoWhileLoop.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\8-WhileLoop-DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\8-WhileLoop-DoWhileLoop.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\refint\8-WhileLoop-DoWhileLoop.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\8-WhileLoop-DoWhileLoop.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\8-WhileLoop-DoWhileLoop.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\8-WhileLoop\obj\Debug\net8.0\ref\8-WhileLoop-DoWhileLoop.dll

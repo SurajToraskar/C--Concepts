@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\bin\Debug\net7.0\14-DateAndTimeSpan.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\bin\Debug\net7.0\14-DateAndTimeSpan.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\bin\Debug\net7.0\14-DateAndTimeSpan.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\bin\Debug\net7.0\14-DateAndTimeSpan.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\bin\Debug\net7.0\14-DateAndTimeSpan.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\14-DateAndTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\14-DateAndTimeSpan.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\14-DateAndTimeSpan.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\14-DateAndTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\14-DateAndTimeSpan.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\refint\14-DateAndTimeSpan.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\14-DateAndTimeSpan.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\14-DateAndTimeSpan.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\14-DateAndTimeSpan\obj\Debug\net7.0\ref\14-DateAndTimeSpan.dll

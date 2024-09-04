@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\bin\Debug\net7.0\22-Dictionaries.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\bin\Debug\net7.0\22-Dictionaries.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\bin\Debug\net7.0\22-Dictionaries.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\bin\Debug\net7.0\22-Dictionaries.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\bin\Debug\net7.0\22-Dictionaries.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\22-Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\22-Dictionaries.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\22-Dictionaries.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\22-Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\22-Dictionaries.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\refint\22-Dictionaries.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\22-Dictionaries.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\22-Dictionaries.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\22-Dictionaries\obj\Debug\net7.0\ref\22-Dictionaries.dll

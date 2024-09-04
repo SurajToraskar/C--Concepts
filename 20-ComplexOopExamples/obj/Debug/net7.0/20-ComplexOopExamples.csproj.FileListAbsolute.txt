@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\bin\Debug\net7.0\20-ComplexOopExamples.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\bin\Debug\net7.0\20-ComplexOopExamples.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\bin\Debug\net7.0\20-ComplexOopExamples.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\bin\Debug\net7.0\20-ComplexOopExamples.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\bin\Debug\net7.0\20-ComplexOopExamples.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\20-ComplexOopExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\20-ComplexOopExamples.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\20-ComplexOopExamples.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\20-ComplexOopExamples.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\20-ComplexOopExamples.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\refint\20-ComplexOopExamples.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\20-ComplexOopExamples.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\20-ComplexOopExamples.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\20-ComplexOopExamples\obj\Debug\net7.0\ref\20-ComplexOopExamples.dll

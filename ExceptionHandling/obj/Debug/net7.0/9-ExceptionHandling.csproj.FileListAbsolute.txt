@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\bin\Debug\net7.0\9-ExceptionHandling.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\bin\Debug\net7.0\9-ExceptionHandling.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\bin\Debug\net7.0\9-ExceptionHandling.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\bin\Debug\net7.0\9-ExceptionHandling.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\bin\Debug\net7.0\9-ExceptionHandling.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\9-ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\9-ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\9-ExceptionHandling.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\9-ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\9-ExceptionHandling.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\refint\9-ExceptionHandling.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\9-ExceptionHandling.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\9-ExceptionHandling.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\ExceptionHandling\obj\Debug\net7.0\ref\9-ExceptionHandling.dll

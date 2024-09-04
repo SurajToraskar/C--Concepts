@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\bin\Debug\net7.0\24-Stacks.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\bin\Debug\net7.0\24-Stacks.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\bin\Debug\net7.0\24-Stacks.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\bin\Debug\net7.0\24-Stacks.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\bin\Debug\net7.0\24-Stacks.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\24-Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\24-Stacks.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\24-Stacks.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\24-Stacks.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\24-Stacks.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\refint\24-Stacks.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\24-Stacks.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\24-Stacks.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\24-Stacks\obj\Debug\net7.0\ref\24-Stacks.dll

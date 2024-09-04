@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\bin\Debug\net8.0\7-ConditionalStatement.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\bin\Debug\net8.0\7-ConditionalStatement.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\bin\Debug\net8.0\7-ConditionalStatement.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\bin\Debug\net8.0\7-ConditionalStatement.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\bin\Debug\net8.0\7-ConditionalStatement.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\7-ConditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\7-ConditionalStatement.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\7-ConditionalStatement.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\7-ConditionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\7-ConditionalStatement.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\refint\7-ConditionalStatement.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\7-ConditionalStatement.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\7-ConditionalStatement.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\7-ConditionalStatement\obj\Debug\net8.0\ref\7-ConditionalStatement.dll

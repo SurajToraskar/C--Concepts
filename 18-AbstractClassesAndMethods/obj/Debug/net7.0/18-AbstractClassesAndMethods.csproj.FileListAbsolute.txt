@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\bin\Debug\net7.0\18-AbstractClassesAndMethods.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\bin\Debug\net7.0\18-AbstractClassesAndMethods.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\bin\Debug\net7.0\18-AbstractClassesAndMethods.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\bin\Debug\net7.0\18-AbstractClassesAndMethods.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\bin\Debug\net7.0\18-AbstractClassesAndMethods.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\18-AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\18-AbstractClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\18-AbstractClassesAndMethods.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\18-AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\18-AbstractClassesAndMethods.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\refint\18-AbstractClassesAndMethods.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\18-AbstractClassesAndMethods.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\18-AbstractClassesAndMethods.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\18-AbstractClassesAndMethods\obj\Debug\net7.0\ref\18-AbstractClassesAndMethods.dll

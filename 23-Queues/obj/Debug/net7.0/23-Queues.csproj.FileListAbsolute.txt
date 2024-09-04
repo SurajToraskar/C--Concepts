@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\bin\Debug\net7.0\23-Queues.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\bin\Debug\net7.0\23-Queues.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\bin\Debug\net7.0\23-Queues.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\bin\Debug\net7.0\23-Queues.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\bin\Debug\net7.0\23-Queues.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\23-Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\23-Queues.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\23-Queues.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\23-Queues.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\23-Queues.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\refint\23-Queues.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\23-Queues.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\23-Queues.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\23-Queues\obj\Debug\net7.0\ref\23-Queues.dll

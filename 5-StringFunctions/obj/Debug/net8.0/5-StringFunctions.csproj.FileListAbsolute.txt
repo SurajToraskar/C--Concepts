@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\bin\Debug\net8.0\5-StringFunctions.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\bin\Debug\net8.0\5-StringFunctions.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\bin\Debug\net8.0\5-StringFunctions.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\bin\Debug\net8.0\5-StringFunctions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\bin\Debug\net8.0\5-StringFunctions.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\5-StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\5-StringFunctions.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\5-StringFunctions.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\5-StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\5-StringFunctions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\refint\5-StringFunctions.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\5-StringFunctions.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\5-StringFunctions.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\5-StringFunctions\obj\Debug\net8.0\ref\5-StringFunctions.dll

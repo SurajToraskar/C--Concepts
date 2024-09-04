@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\bin\Debug\net7.0\19-Interfaces.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\bin\Debug\net7.0\19-Interfaces.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\bin\Debug\net7.0\19-Interfaces.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\bin\Debug\net7.0\19-Interfaces.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\bin\Debug\net7.0\19-Interfaces.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\19-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\19-Interfaces.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\19-Interfaces.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\19-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\19-Interfaces.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\refint\19-Interfaces.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\19-Interfaces.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\19-Interfaces.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\19-Interfaces\obj\Debug\net7.0\ref\19-Interfaces.dll

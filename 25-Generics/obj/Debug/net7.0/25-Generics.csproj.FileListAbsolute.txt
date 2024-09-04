@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\bin\Debug\net7.0\25-Generics.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\bin\Debug\net7.0\25-Generics.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\bin\Debug\net7.0\25-Generics.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\bin\Debug\net7.0\25-Generics.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\bin\Debug\net7.0\25-Generics.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\25-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\25-Generics.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\25-Generics.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\25-Generics.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\25-Generics.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\refint\25-Generics.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\25-Generics.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\25-Generics.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\25-Generics\obj\Debug\net7.0\ref\25-Generics.dll

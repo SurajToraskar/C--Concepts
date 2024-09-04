@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\bin\Debug\net7.0\28-Select.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\bin\Debug\net7.0\28-Select.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\bin\Debug\net7.0\28-Select.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\bin\Debug\net7.0\28-Select.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\bin\Debug\net7.0\28-Select.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\28-Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\28-Select.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\28-Select.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\28-Select.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\28-Select.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\refint\28-Select.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\28-Select.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\28-Select.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\28-Select\obj\Debug\net7.0\ref\28-Select.dll

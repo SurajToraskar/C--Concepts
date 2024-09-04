@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\bin\Debug\net7.0\30-Enumerator.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\bin\Debug\net7.0\30-Enumerator.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\bin\Debug\net7.0\30-Enumerator.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\bin\Debug\net7.0\30-Enumerator.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\bin\Debug\net7.0\30-Enumerator.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\30-Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\30-Enumerator.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\30-Enumerator.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\30-Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\30-Enumerator.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\refint\30-Enumerator.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\30-Enumerator.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\30-Enumerator.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\30-Enumerator\obj\Debug\net7.0\ref\30-Enumerator.dll

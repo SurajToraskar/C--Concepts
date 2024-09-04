@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\bin\Debug\net7.0\17-Inheritance.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\bin\Debug\net7.0\17-Inheritance.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\bin\Debug\net7.0\17-Inheritance.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\bin\Debug\net7.0\17-Inheritance.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\bin\Debug\net7.0\17-Inheritance.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\17-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\17-Inheritance.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\17-Inheritance.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\17-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\17-Inheritance.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\refint\17-Inheritance.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\17-Inheritance.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\17-Inheritance.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\17-Inheritance\obj\Debug\net7.0\ref\17-Inheritance.dll

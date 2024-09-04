@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\bin\Debug\net7.0\21-ArrayList.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\bin\Debug\net7.0\21-ArrayList.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\bin\Debug\net7.0\21-ArrayList.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\bin\Debug\net7.0\21-ArrayList.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\bin\Debug\net7.0\21-ArrayList.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\21-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\21-ArrayList.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\21-ArrayList.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\21-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\21-ArrayList.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\refint\21-ArrayList.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\21-ArrayList.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\21-ArrayList.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\21-ArrayList\obj\Debug\net7.0\ref\21-ArrayList.dll

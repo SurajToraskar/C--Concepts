@@ -1,0 +1,14 @@
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\bin\Debug\net8.0\1-UserInput.exe
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\bin\Debug\net8.0\1-UserInput.deps.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\bin\Debug\net8.0\1-UserInput.runtimeconfig.json
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\bin\Debug\net8.0\1-UserInput.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\bin\Debug\net8.0\1-UserInput.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\1-UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\1-UserInput.AssemblyInfoInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\1-UserInput.AssemblyInfo.cs
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\1-UserInput.csproj.CoreCompileInputs.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\1-UserInput.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\refint\1-UserInput.dll
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\1-UserInput.pdb
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\1-UserInput.genruntimeconfig.cache
+C:\Users\toras\Desktop\asp.net-mvc-5\C#-full-course\UserInput\obj\Debug\net8.0\ref\1-UserInput.dll
